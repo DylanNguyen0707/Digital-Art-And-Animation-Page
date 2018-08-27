@@ -8,4 +8,4 @@ My name is Dylan
 https://github.com/DylanNguyen0707/Digital-Art-And-Animation-Page/blob/master/How%20Would%20You%20Define%20Art%3F.md (Before)
 
 
-https://github.com/DylanNguyen0707/Digital-Art-And-Animation-Page/new/master (Victor Varsarely)
+https://github.com/DylanNguyen0707/Digital-Art-And-Animation-Page/edit/master/People%20of%20Interest (Victor Varsarely)
