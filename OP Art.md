@@ -10,3 +10,4 @@ OP art is a style that tricks viewers mind into thinking that the image is one w
 
 Dieter Roth was born on April 21, 1930. Although, he died on June 5, 1998. He was born on Hanover, Germany.
 
+![alt text](../images/compsci-dp-cs.jpg "CC 2.0: Generic | Cropped  | Eric Miraglia")
