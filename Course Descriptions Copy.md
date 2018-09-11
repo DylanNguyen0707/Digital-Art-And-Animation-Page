@@ -1,53 +1,29 @@
-###### Course: §126.63
+###### Course: §126.42
 
-## IB Diploma Computer Science SL
+## Digital Art & Animation
 
-Students shall be awarded two credits for successful completion of this course. IB DP CS is not limited to just programming. It includes a fair amount of generalized computer information as well. While it is not required, we recommend taking several tech courses prior to enrolling in IB DP CS. 
+TechApps in Texas has six main strands based on the National Education Technology Standards and performance indicators based on the International Society for Technology in Education;  creativity and innovation; communication and collaboration; research and information fluency; critical thinking, problem solving, and decision making; digital citizenship; and technology operations and concepts. These are found across the different Tech Apps courses in Texas, including Computer Science.
 
-Recommended prerequisites from Texas: Computer Science I & Algebra II. Computer Science 1 is an intermediate-level course, not introductory level. Prior to taking Computer Science 1, it is recommended for students to complete Fundamentals of CS or Digital Communications. Students may also consider taking Digital Art to increase general knowledge of tech and applications. Students may consider taking Web Design alongside IB DP CS.
+Our Digital Art & Animation course is designed to be an introduction into the fundamentals of digital art and some of the related tools for students with limited to no background in digital art. This is not meant to replace traditional arts. One of the most important skills for a digital artist is a strong background in traditional art. No background in specialized software is required. Despite this, students are expected to start the course with a general computer skillset. Students should already be familiar with how to operate and utilize general softwares for everyday use.
 
-![alt text](./compsci-dp-cs.jpg "CC 2.0: Generic | Cropped  | Eric Miraglia")
+Digital Art is an intermediate-level course, not introductory level. Prior to taking Digital Art, it is recommended for students to complete Digital Communications. Digital Art & Animation satisfies a students Fine Art Requirement for graduation in the state of Texas.
 
-Computer science is regarded as an experimental science, alongside biology, chemistry, design technology, physics and environmental systems and societies. All computer science students will work with other students of group 4 subjects (physics, chemistry, biology and design technology).
-
-The IB computer science course is a rigorous and practical problem-solving discipline. Computational thinking lies at the heart of the course and is integrated with other topics. This will be supported by practical activities including programming. On Externally assessed papers, algorithmic thinking will only be externally assessed at the level of pseudo-code. Practical programming experience will be an essential element of developing higher-level thinking skills; this is assessed as a part of the internal assessment. There is no designated language.
- 
-The MYP technology and design courses develop skills linked to the design cycle, which provides the model of thinking and the strategy used to help students investigate problems and design, plan, create and evaluate the product. Students continuing on to the IB Diploma Programme will have experienced the use of the design cycle and will have developed critical-thinking and design skills, which they will be able to apply and extend in computer science. The Diploma Programme computer science course requires students to become actively involved in, and to focus on, the whole design process as well as the final product, building on the skills acquired during the MYP technology course. In order to complete the IB Diploma Programme computer science internal assessment successfully, students are expected to create a solution to a specific problem using the design cycle, which extends the range of skills developed in MYP technology.
-
-There is no one scientific method of gaining knowledge or of finding explanations for the behaviour of the natural world. Computer science works through a variety of approaches to produce these explanations, but they all rely on data from observations and have a common underpinning rigour, whether using inductive or deductive reasoning. Computer science requires freedom of thought and open-mindedness, and an essential part of the process of science is the way the international computer science community shares ideas through academic papers, conferences and open forums.
-
-#### Course Tools
-
-For the course, we will use JavaScript as our primary language. This will partner with HTML and CSS. With expansive use across the world due to rapid explosion of the web in the late 90's and early 00's, library support is extensive and varied. New powerful libraries and frameworks, like Ryan Dahl's Node.js and GitHub's Electron respectively, have pushed the lanauge's prior limitations. JavaScript is positioned to become the next super language. As we work with JavaScript, we'll predominately work with GitHub's Atom IDE. We'll also work directly with GitHub's online repository system to store code and documentation. Completed coursework will be submitted to ManageBac. 
-
-#### Rough Outline of Curriculum
+![alt text](digitalart.jpg "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
  
-While IB has a specific order they've listed content, our order won't be exactly the same. General recommendation from other teachers is to learn about and practice programming throughout the course, and I absolutely agree with it.
- 
-**There are four core topics within IB CS DP**
-* 1. System Fundamentals
-* 2. Computer Organization
-* 3. Networks
-* 4. Computational Thinking, Problem Solving, and Programming
+#### Course Summary
 
-**Options**
-* A. ~~Databases~~
-* *B. Modeling & Simulation*
-* C. Web Science
-* D. ~~Object-oriented Programming (OOP) with Java~~
-
-In addition to covering the core topics, IB external assement papers(exams) will also include questions about the different options. Student will only select one set of the questions to answer, on a specific option. We are planning to cover Modeling & Simulation in this course. As we work with JavaScript, and as students may also choose to take the Web Design MYP/CP elective, students may have a strong enough understanding to consider answering Option C questions on the external assesments.
-
-##### A bit of reading material:
--[IB DP CS Subject Brief](https://www.ibo.org/globalassets/publications/recognition/4_computersl.pdf)
-
--[Overview of the IB DP CS IA](http://ib.compscihub.net/internal-assessment/overview)
-
--[Approved Notation for Pseudocode](http://ib.compscihub.net/wp-content/uploads/2015/04/IB-Pseudocode-rules-more.pdf)
+Digital Art & Animation is not designed to be a difficult course. However, students are often used to being told the answer, or able to just find the answer. This course requires students to design, document, and create their own solutions, then defend those solutions. Due to how limited this is in the American education system, it is not unusual for students to find the class difficult due to having to work and think in a way they are not used to. During the spring, students may choose to work with a partner or group. If they choose to, they are also responsible for documenting both their work and progress as an individual and as a group.
  
-#### Style of Instruction:
-We're sort of figuring this out as we go. It will likely be a mix of direct instruction, research, and video resources.
+In addition to Adobe's Photoshop, Illustrator, and Flash, students will also have the opportunity to work with SVG and other programs and tools. Students will also utilize GitHub throughout the year.
 
+#### As an IB Continuum School
+
+As an IB Continuum School, how we meet the expectations required by the state of Texas may look differently than what you'd see at other schools. The expectations set by Texas rarely match the significantly greater expectations of planning and evaluating found in IB. As such, many educational institutions in Texas expect very little planning and evaluation in their students work, instead often focusing on being able to recall a large amount of content. The International Baccalaureate has a greater focus on planning and evaluating, as well as on application of content instead of recall- especially in the design courses. 
+
+The MYP technology and design courses develop skills linked to the design cycle, which provides the model of thinking and the strategy used to help students investigate problems and design, plan, create and evaluate the product. This is less of an issue in Tech Apps content in Texas, as the newer redefined expectations released in 2012 due reflect greater planning than previous expectations. To what extent and level of focus schools apply to this specific subset of Texas standards will vary, and will mostly likely be less at non-IB campuses.
+ 
+Due to the structure IB expects, our courses tend 'cover' less content, instead choosing to focus on deeper more meaningful interaction between students and content. In the long run, students are better prepared for higher level work, instruction, and the real world. They tend to retain more as well, as they usually actually remember the content due to the significantly deeper understanding of use of content, instead of shallow memorization.
+ 
 #### Lab Hours
 
 Lab hours available for extra time or additional help. If you need guidance, please schedule an appointment. If you just need extra work time, pop-ins are allowed. If you choose not to work in class and are a distraction to others, and then ask to come in for extra time, you will likely be denied extra time. You should make use of the time you already have in scheduled class before requesting more.
@@ -63,7 +39,32 @@ After School: Monday, Tuesday, & Thursday
 
 If you need other accommodations, please see your instructor to make an appointment.
 
-![alt text](./cheating.jpg "CC 2.0: Generic | Cropped, Grey Scale, Selective Blur  |  Craig Sunter")
+
+#### Digital Art Course Content
+
+Our Digital Art & Animation course spans across 2 semesters. The course is broken up into 2 massive units.
+
+**Fall Unit: Portraiture**
+* What is Art
+* SVG
+* Illustrator
+* Photoshop
+
+**Spring Unit: Animation**
+* SVG
+* Flash
+* OpenToonz
+
+For the traditional American education system, this is an elective. An elective does not mean you get a free A. An elective actually means you don't have to pass. You can excel in, barely pass, or fail this class. Which ever result you choose to pursue will be on your transcript, will affect your GPA, and will be included in what is sent to colleges and universities.
+ 
+To IB, this subject area is just as important as any other, and should require rigorous and significant course work. You are expected to put forth a valiant effort consistently during class and throughout the year. The grade is a reflection of your choices; good or bad.
+ 
+#### Style of Instruction:
+Majority of content will be delivered through video instruction. This allows you to revisit content as often as you need, as well as to be able to slow down, speed up, or repeat content as often as you need. This also allows your instructor to work with and help students or groups of students when they need, without stopping the content for the rest of students.
+ 
+As you are able to work at your own pace, this can sometimes cause a general slowdown for some students. Despite being able to watch videos whenever you need, it is important that you keep up with the pace of the course to not end up with a ton of backwork to complete at the midterm or at term's end.
+
+![alt text](cheating.jpg "CC 2.0: Generic | Cropped, Grey Scale, Selective Blur  |  Craig Sunter")
 
 #### Cheating & Academic Dishonesty
 
@@ -88,3 +89,6 @@ Research, as well as personal experience, shows that students tend to understand
 -[Crossing the Line: Collusion or Collaboration...](https://files.eric.ed.gov/fulltext/EJ1004398.pdf)
 
 -[Robert College's Collaboration Guidelines](http://webportal.robcol.k12.tr/Academics/Academic-Honesty/CollaborationGuidelines/Pages/default.aspx)
+ 
+#### CMS / LMS:
+We will use ManageBac.
