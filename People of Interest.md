@@ -22,6 +22,6 @@ Alberto Seveso is a photoshop artist. He said himself that he likes the idea of 
 
 James Jean specialized in a movie called, "The Shape of Water". I have never heard of this movie, but it looks like a love movie. In the second video, he drew a women with a crayon-like structure. He was very careful with all his turns and depths. He adds lots of detail in his art. 
 
-Banksy is a street
+Banksy is a street artist
 
 
