@@ -17,3 +17,11 @@ Shepard Fairey has a style of art that mainly consists of spray painting. He has
 Oleg Dou was born in Moscow, and he lived all his life in Moscow. When he realized that he was going to be an artist, he was about six or seven. From what I understand, he uses photoshop as his art style. He took a picture of his friend and photoshopped her face. His artwork is mainly about people and the beauty in their face. He makes other people's face white and adds detail to it. He does this all by using photoshop.
 
 Kirsty Mitchell is somewhat similar to Oleg Dou. Both of their art styles include real-life people. Kirsty's art consists of specific detail that differentiates her art style from others. Some of her art consists of natural nature. Pure nature instead of using fake trees and plants, she takes her tools and goes to a forest/jungle that perfectly fits her style of art. One picture was a woman with a pale/white face. She also is covered with flowers, making her a  beauty.
+
+Alberto Seveso is a photoshop artist. He said himself that he likes the idea of creativity. The thought of him being self-taught is just amusing and unbelievable, to me. I am taught by many other people and I still struggle to operate some functions. From what I understand, this artist likes to edit people's faces, and add color, texture, or disolving strands, leadig away from their face.
+
+James Jean specialized in a movie called, "The Shape of Water". I have never heard of this movie, but it looks like a love movie. In the second video, he drew a women with a crayon-like structure. He was very careful with all his turns and depths. He adds lots of detail in his art. 
+
+Banksy is a street
+
+
