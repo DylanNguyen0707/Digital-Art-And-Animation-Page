@@ -22,6 +22,6 @@ Alberto Seveso is a photoshop artist. He said himself that he likes the idea of 
 
 James Jean specialized in a movie called, "The Shape of Water". I have never heard of this movie, but it looks like a love movie. In the second video, he drew a women with a crayon-like structure. He was very careful with all his turns and depths. He adds lots of detail in his art. 
 
-Banksy is a street artist
+Banksy is known as a street artist. The second video surprised me the most. From my understanding, Banksy is a specialist in the opposite of Disney. He created his own theme park named, "Dismaland." This odd theme park is the exact opposite of any normal theme park. Usually, people would go to theme parks to have fun and enjoy their experience with famil. This park, has a creepy and dull atmosphere to it. It looks like an abandone, haunted park. For example, instead of Cinderella riding safety in the carrage, Banksy created a scenario to where Cinderella crashed, and flew out of the carrage. This just inputs a bad vibe in my head.
 
 
