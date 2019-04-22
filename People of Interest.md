@@ -1,3 +1,9 @@
+Ub Iwerks 
+
+Floyd Norman 
+
+Chuck Jones 
+
 Yuri Norstein was considered one of the best animators ever! And I totally agree with all the people. His aniimations are very creative. I saw his method of movement for the characters. He would have multiple "Mickey Mouse" slips, and he would place it on a board with a background. He would take a picture, grab the next slip, position it, and take another picture. 
 
 William Hanna and Joseph Barbera are csrtoon artists. I am very familiar with most of their art pieces. I love watching animations that tell great stories and add thought and suspense to the audience as it plays along. This takes a lot of hard work to accomplish. Frame by frame, these two men need to draw and draw in order to keep the animation smooth. They love to do tasks like these so they are in great positions.
